@@ -6,7 +6,7 @@
 
 Виконав Драпак Віталій ІТ-23
 
-TEST 2
+TEST 2 UPD
 
 
 Test 3 Rebase
